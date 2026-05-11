@@ -1,0 +1,13 @@
+{
+  "name": "lstudio-demo-assets",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Lスタジオ7業種デモの公開アセット（GitHub Pagesで配信）",
+  "scripts": {
+    "optimize": "node scripts/optimize.mjs"
+  },
+  "dependencies": {
+    "sharp": "^0.33.5"
+  }
+}
